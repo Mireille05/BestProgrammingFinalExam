@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.home": "C:\\Users\\CTRL-SHIFT LTD\\Downloads\\jdk-21_windows-x64_bin\\jdk-21.0.7",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "C:\\Users\\CTRL-SHIFT LTD\\Downloads\\jdk-21_windows-x64_bin\\jdk-21.0.7",
+            "default": true
+        }
+    ]
+}
